@@ -19,6 +19,6 @@
 *AWS Certification Path:*
 
 *   ✅ **Cloud Practitioner** (AWS Certified)
-*   ⏳ **CloudOps Engineer** (In Progress)
+*   ✅ **CloudOps Engineer** (AWS Certified)
 *   ⏳ **DevOps Engineer** (In Progress)
 *   ⏳ **Security Specialty** (In Progress)
