@@ -20,5 +20,5 @@
 
 *   ✅ **Cloud Practitioner** (AWS Certified)
 *   ✅ **CloudOps Engineer** (AWS Certified)
-*   ⏳ **DevOps Engineer** (In Progress)
+*   ✅ **DevOps Engineer** (AWS Certified)
 *   ⏳ **Security Specialty** (In Progress)
